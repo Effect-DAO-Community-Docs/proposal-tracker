@@ -11,6 +11,7 @@
 
 ## Accepted / Incomplete
 
+* [\#40: Tutorials for the Effect Dashboard and Binance Smart Chain \(C9\)](accepted-incomplete/40-tutorials-for-the-effect-dashboard-and-binance-smart-chain.md)
 * [\#36: Cause and Effect \#2 \(Video Production\) \(C6\)](accepted-incomplete/36-cause-and-effect-2-video-production.md)
 * [\#30: Estimated DAO Rewards Calculator \(C5\)](accepted-incomplete/30-estimated-dao-rewards-calculator.md)
 * [\#29: "Worker of the Week" Page on DAO Dashboard \(C6\)](accepted-incomplete/29-worker-of-the-week-page-on-dao-dashboard.md)
@@ -44,6 +45,7 @@
 
 ## Rejected
 
+* [\#39: Easter Basket \(C8\)](rejected/39-easter-basket.md)
 * [\#38: Set Proposal Submission Cost to 10 EFX \(C7\)](rejected/38-set-proposal-submission-cost-to-10-efx-c7.md)
 * [\#34: Eliminate proposal fees, and instead issue a free proposal token to DAO members. \(C6\)](rejected/34-eliminate-proposal-fees-and-instead-issue-a-free-proposal-token-to-dao-members..md)
 * [\#27: Change budget for cycles 6-9 \(C5\)](rejected/27-change-budget-for-cycles-6-9.md)
