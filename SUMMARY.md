@@ -11,12 +11,12 @@
 
 ## Accepted / Incomplete
 
-* [Untitled](accepted-incomplete/untitled.md)
+* [\#16: Expanding Documentation: Librarians Of The Galaxy \(C3\)](accepted-incomplete/16-expanding-documentation-librarians-of-the-galaxy.md)
+* [\#1: Endorsement of EffectDAO Sponsored Hackathons \(C3\)](accepted-incomplete/endorsement-of-effectdao-sponsored-hackathons.md)
 
 ## Accepted / Complete
 
 * [\#6: 30% of all unused cycle funds go to fee distribution \(C1\)](accepted-complete/untitled.md)
-* [\#1: Endorsement of EffectDAO Sponsored Hackathons \(C3\)](accepted-complete/endorsement-of-effectdao-sponsored-hackathons.md)
 
 ## Accepted / Superseded
 
