@@ -1,5 +1,5 @@
 ---
-description: 'Author: raskendrills'
+description: 'Proposal Author: raskendrills'
 ---
 
 # \#40: Tutorials for the Effect Dashboard and Binance Smart Chain \(C9\)

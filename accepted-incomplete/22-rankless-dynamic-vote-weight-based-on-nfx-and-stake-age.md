@@ -1,5 +1,5 @@
 ---
-description: 'Author: djstrikanova'
+description: 'Proposal Author: djstrikanova'
 ---
 
 # \#22: Rankless Dynamic Vote Weight Based on NFX and Stake Age \(C4\)

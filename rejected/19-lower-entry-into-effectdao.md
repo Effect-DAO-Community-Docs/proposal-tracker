@@ -1,5 +1,5 @@
 ---
-description: 'Author: breekean2222'
+description: 'Proposal Author: breekean2222'
 ---
 
 # \#19: Lower Entry into EffectDAO \(C3\)

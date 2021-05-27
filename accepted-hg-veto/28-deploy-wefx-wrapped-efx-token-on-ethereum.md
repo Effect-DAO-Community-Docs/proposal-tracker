@@ -1,5 +1,5 @@
 ---
-description: 'Author: terry.efx'
+description: 'Proposal Author: terry.efx'
 ---
 
 # \#28: Deploy wEFX \(Wrapped EFX\) token on Ethereum \(C5\)

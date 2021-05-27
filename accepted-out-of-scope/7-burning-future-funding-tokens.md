@@ -1,5 +1,5 @@
 ---
-description: 'Author: dajinofgpool'
+description: 'Proposal Author: dajinofgpool'
 ---
 
 # \#7: Burning future funding tokens \(C1\)

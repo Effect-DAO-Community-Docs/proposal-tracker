@@ -1,5 +1,5 @@
 ---
-description: 'Author: rmblockchain'
+description: 'Proposal Author: rmblockchain'
 ---
 
 # \#37: A guide on how to improve security by using a Ledger hardware wallet. \(C7\)

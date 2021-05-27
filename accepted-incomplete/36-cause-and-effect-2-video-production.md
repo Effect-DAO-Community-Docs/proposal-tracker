@@ -1,5 +1,5 @@
 ---
-description: 'Author: bucketofrain'
+description: 'Proposal Author: bucketofrain'
 ---
 
 # \#36: Cause and Effect \#2 \(Video Production\) \(C6\)

@@ -1,5 +1,5 @@
 ---
-description: 'Author: djstrikanova'
+description: 'Proposal Author: djstrikanova'
 ---
 
 # \#1: Endorsement of EffectDAO Sponsored Hackathons \(C3\)

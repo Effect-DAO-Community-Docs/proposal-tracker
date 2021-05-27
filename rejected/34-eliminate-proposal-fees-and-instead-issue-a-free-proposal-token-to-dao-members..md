@@ -1,5 +1,5 @@
 ---
-description: 'Author: tropicalfish'
+description: 'Proposal Author: tropicalfish'
 ---
 
 # \#34: Eliminate proposal fees, and instead issue a free proposal token to DAO members. \(C6\)

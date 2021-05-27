@@ -1,5 +1,5 @@
 ---
-description: 'Author: xrossxrosste'
+description: 'Proposal Author: xrossxrosste'
 ---
 
 # \#39: Easter Basket \(C8\)

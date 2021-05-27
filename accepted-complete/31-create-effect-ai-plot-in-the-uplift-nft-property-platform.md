@@ -1,5 +1,5 @@
 ---
-description: 'Author: johnatboid11'
+description: 'Proposal Author: johnatboid11'
 ---
 
 # \#31: Create Effect.ai plot in "The Uplift" NFT property platform \(C6\)

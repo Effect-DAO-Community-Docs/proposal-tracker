@@ -1,3 +1,7 @@
+---
+description: 'Proposal Author: pablozeus.tp'
+---
+
 # \#9: A fairer way to structure voting weight and fees distribution \(C2\)
 
 {% embed url="https://dao.effect.network/proposals/9" %}

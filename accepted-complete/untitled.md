@@ -1,5 +1,5 @@
 ---
-description: 'Author: extemporized'
+description: 'Proposal Author: extemporized'
 ---
 
 # \#6: 30% of all unused cycle funds go to fee distribution \(C1\)

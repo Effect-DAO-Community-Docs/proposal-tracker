@@ -1,5 +1,5 @@
 ---
-description: 'Author: hazdkmbxgene'
+description: 'Proposal Author: hazdkmbxgene'
 ---
 
 # \#27: Change budget for cycles 6-9 \(C5\)

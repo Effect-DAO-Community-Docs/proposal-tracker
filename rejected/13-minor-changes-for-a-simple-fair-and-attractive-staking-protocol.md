@@ -1,3 +1,7 @@
+---
+description: 'Proposal Author: deurleos1515'
+---
+
 # \#13: Minor changes for a simple, fair and attractive staking protocol \(C2\)
 
 {% embed url="https://dao.effect.network/proposals/13" %}

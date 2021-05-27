@@ -1,5 +1,5 @@
 ---
-description: 'Author: hakf355store'
+description: 'Proposal Author: hakf355store'
 ---
 
 # \#23: Let's Get Back To 1 Token Only \(C4\)

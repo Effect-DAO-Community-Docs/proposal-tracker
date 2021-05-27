@@ -1,5 +1,5 @@
 ---
-description: 'Author: dsyffpw5s1go'
+description: 'Proposal Author: dsyffpw5s1go'
 ---
 
 # \#30: Estimated DAO Rewards Calculator \(C5\)

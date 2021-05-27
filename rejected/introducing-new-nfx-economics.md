@@ -1,5 +1,5 @@
 ---
-description: 'Author: terry.efx'
+description: 'Proposal Author: terry.efx'
 ---
 
 # \#5: Introducing new NFX economics \(C2\)

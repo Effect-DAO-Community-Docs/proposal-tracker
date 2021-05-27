@@ -1,3 +1,7 @@
+---
+description: 'Proposal Author: tropicalfish'
+---
+
 # \#11: Changes To The Payout Method Of Network Fees \(C2\)
 
 {% embed url="https://dao.effect.network/proposals/11" %}

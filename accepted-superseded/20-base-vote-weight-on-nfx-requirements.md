@@ -1,5 +1,5 @@
 ---
-description: 'Author: laurenseosio'
+description: 'Proposal Author: laurenseosio'
 ---
 
 # \#20: Base Vote Weight on NFX requirements \(C3\)

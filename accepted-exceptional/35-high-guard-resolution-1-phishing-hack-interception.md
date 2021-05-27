@@ -1,5 +1,5 @@
 ---
-description: 'Author: extemporized'
+description: 'Proposal Author: extemporized'
 ---
 
 # \#35: High Guard Resolution \#1: Phishing hack interception \(C6\)

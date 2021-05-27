@@ -26,6 +26,10 @@
 * [\#31: Create Effect.ai plot in "The Uplift" NFT property platform \(C6\)](accepted-complete/31-create-effect-ai-plot-in-the-uplift-nft-property-platform.md)
 * [\#6: 30% of all unused cycle funds go to fee distribution \(C1\)](accepted-complete/untitled.md)
 
+## Accepted / Exceptional
+
+* [\#35: High Guard Resolution \#1: Phishing hack interception \(C6\)](accepted-exceptional/35-high-guard-resolution-1-phishing-hack-interception.md)
+
 ## Accepted / Superseded
 
 * [\#20: Base Vote Weight on NFX requirements \(C3\)](accepted-superseded/20-base-vote-weight-on-nfx-requirements.md)
@@ -34,10 +38,6 @@
 ## Accepted / Out of Scope
 
 * [\#7: Burning future funding tokens \(C1\)](accepted-out-of-scope/7-burning-future-funding-tokens.md)
-
-## Accepted / Exceptional
-
-* [\#35: High Guard Resolution \#1: Phishing hack interception \(C6\)](accepted-exceptional/35-high-guard-resolution-1-phishing-hack-interception.md)
 
 ## Accepted / HG Veto
 

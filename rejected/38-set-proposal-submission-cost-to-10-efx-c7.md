@@ -1,5 +1,5 @@
 ---
-description: 'Author: djstrikanova'
+description: 'Proposal Author: djstrikanova'
 ---
 
 # \#38: Set Proposal Submission Cost to 10 EFX \(C7\)

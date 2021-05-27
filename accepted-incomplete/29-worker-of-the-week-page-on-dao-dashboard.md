@@ -1,5 +1,5 @@
 ---
-description: 'Author: gy2danzsgege'
+description: 'Proposal Author: gy2danzsgege'
 ---
 
 # \#29: "Worker of the Week" Page on DAO Dashboard \(C6\)
