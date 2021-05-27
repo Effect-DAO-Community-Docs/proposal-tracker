@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Proposal Tracker](README.md)
-* [\#1: Endorsement of EffectDAO Sponsored Hackathons](endorsement-of-effectdao-sponsored-hackathons.md)
 * [Untitled](untitled-1.md)
 * [Untitled](untitled.md)
 
@@ -9,19 +8,24 @@
 
 * [Untitled](active/untitled.md)
 
-## Closed / Passed / Incomplete <a id="closed-incomplete"></a>
+## Accepted / Incomplete
 
-* [Untitled](closed-incomplete/untitled.md)
+* [Untitled](accepted-incomplete/untitled.md)
 
-## Closed / Passed / Complete <a id="closed-complete"></a>
+## Accepted / Complete
 
-* [Untitled](closed-complete/untitled.md)
+* [\#6: 30% of all unused cycle funds go to fee distribution](accepted-complete/untitled.md)
+* [\#1: Endorsement of EffectDAO Sponsored Hackathons](accepted-complete/endorsement-of-effectdao-sponsored-hackathons.md)
 
-## Closed / Passed / Veto
+## Accepted / Out of Scope
 
-* [Untitled](closed-passed-veto/untitled.md)
+* [Untitled](accepted-out-of-scope/untitled.md)
 
-## Closed / Failed
+## Accepted / HG Veto
 
-* [Untitled](closed-failed/untitled.md)
+* [Untitled](accepted-hg-veto/untitled.md)
+
+## Rejected
+
+* [\#5: Introducing new NFX economics](rejected/introducing-new-nfx-economics.md)
 
