@@ -1,7 +1,8 @@
 # Table of contents
 
 * [Proposal Tracker](README.md)
-* [Untitled](untitled-1.md)
+* [Contact](untitled-1.md)
+* [DAO Dashboard](https://dao.effect.network/)
 * [Untitled](untitled.md)
 
 ## Active
@@ -19,7 +20,7 @@
 
 ## Accepted / Out of Scope
 
-* [Untitled](accepted-out-of-scope/untitled.md)
+* [\#7: Burning future funding tokens](accepted-out-of-scope/7-burning-future-funding-tokens.md)
 
 ## Accepted / HG Veto
 
