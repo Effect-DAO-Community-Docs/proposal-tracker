@@ -5,9 +5,12 @@
 * [DAO Dashboard](https://dao.effect.network/)
 * [Glossary](glossary.md)
 
+## Pending
+
 ## Active
 
-* [Untitled](active/untitled.md)
+* [\#43: Deployment of Rankless Dynamic Vote System \(P22\) \(C11\)](active/43-deployment-of-rankless-dynamic-vote-system-p22-c11.md)
+* [\#42: DAO GitBook Write-Up Consolidation](active/42-dao-gitbook-write-up-consolidation.md)
 
 ## Accepted / Incomplete
 
@@ -45,6 +48,7 @@
 
 ## Rejected
 
+* [\#41: Blockchain Cold Wallet Safety Guide - For BSC & EOS \(C10\)](rejected/41-blockchain-cold-wallet-safety-guide-for-bsc-and-eos.md)
 * [\#39: Easter Basket \(C8\)](rejected/39-easter-basket.md)
 * [\#38: Set Proposal Submission Cost to 10 EFX \(C7\)](rejected/38-set-proposal-submission-cost-to-10-efx-c7.md)
 * [\#34: Eliminate proposal fees, and instead issue a free proposal token to DAO members. \(C6\)](rejected/34-eliminate-proposal-fees-and-instead-issue-a-free-proposal-token-to-dao-members..md)
