@@ -34,6 +34,7 @@
 
 ## Rejected
 
+* [\#19: Lower Entry into EffectDAO \(C3\)](rejected/19-lower-entry-into-effectdao.md)
 * [\#13: Minor changes for a simple, fair and attractive staking protocol \(C2\)](rejected/13-minor-changes-for-a-simple-fair-and-attractive-staking-protocol.md)
 * [\#9: A fairer way to structure voting weight and fees distribution \(C2\)](rejected/9-a-fairer-way-to-structure-voting-weight-and-fees-distribution.md)
 * [\#5: Introducing new NFX economics \(C2\)](rejected/introducing-new-nfx-economics.md)
