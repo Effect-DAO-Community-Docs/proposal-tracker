@@ -2,7 +2,7 @@
 description: 'Proposal Author: djstrikanova'
 ---
 
-# \#42: DAO GitBook Write-Up Consolidation
+# \#42: DAO GitBook Write-Up Consolidation \(C11\)
 
 {% embed url="https://dao.effect.network/proposals/42" %}
 

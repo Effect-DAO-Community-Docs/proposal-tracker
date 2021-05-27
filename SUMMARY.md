@@ -9,8 +9,9 @@
 
 ## Active
 
+* [\#44: DAO Call Recorder \(C11\)](active/44-dao-call-recorder-c11.md)
 * [\#43: Deployment of Rankless Dynamic Vote System \(P22\) \(C11\)](active/43-deployment-of-rankless-dynamic-vote-system-p22-c11.md)
-* [\#42: DAO GitBook Write-Up Consolidation](active/42-dao-gitbook-write-up-consolidation.md)
+* [\#42: DAO GitBook Write-Up Consolidation \(C11\)](active/42-dao-gitbook-write-up-consolidation.md)
 
 ## Accepted / Incomplete
 
