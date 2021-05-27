@@ -38,6 +38,7 @@
 
 ## Rejected
 
+* [\#34: Eliminate proposal fees, and instead issue a free proposal token to DAO members. \(C6\)](rejected/34-eliminate-proposal-fees-and-instead-issue-a-free-proposal-token-to-dao-members..md)
 * [\#27: Change budget for cycles 6-9 \(C5\)](rejected/27-change-budget-for-cycles-6-9.md)
 * [\#25: Extending EffectDAO Constitution to clarify IP rights \(C8\)](rejected/25-extending-effectdao-constitution-to-clarify-ip-rights.md)
 * [\#23: Let's Get Back To 1 Token Only \(C4\)](rejected/23-lets-get-back-to-1-token-only.md)
