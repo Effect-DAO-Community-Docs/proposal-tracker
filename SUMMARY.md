@@ -1,9 +1,9 @@
 # Table of contents
 
 * [Proposal Tracker](README.md)
-* [Contact](untitled-1.md)
+* [Contact](contact.md)
 * [DAO Dashboard](https://dao.effect.network/)
-* [Untitled](untitled.md)
+* [Glossary](glossary.md)
 
 ## Active
 
