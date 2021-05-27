@@ -6,5 +6,5 @@ description: 'Proposal Author: scarletalpha'
 
 {% embed url="https://dao.effect.network/proposals/44" %}
 
-This proposal classifies itself as an "invoice" for past work writing DAO call materials. It can be considered completed after being accepted.
+This proposal classifies itself as an "invoice" for past work writing DAO call materials. It can be considered completed after being Accepted.
 

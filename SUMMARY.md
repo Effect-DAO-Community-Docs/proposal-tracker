@@ -5,8 +5,6 @@
 * [DAO Dashboard](https://dao.effect.network/)
 * [Glossary](glossary.md)
 
-## Pending
-
 ## Active
 
 * [\#44: DAO Call Recorder \(C11\)](active/44-dao-call-recorder-c11.md)

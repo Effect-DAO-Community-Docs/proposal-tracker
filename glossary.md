@@ -14,7 +14,7 @@ A proposal is considered incomplete if...
 
 
 * The author of a proposal pledged to complete some sort of task and has not yet completed the task.
-* The DAO community endorsed some sort of action by the Foundation and the Foundation was receptive to the idea and stated their desire to satisfy the request of the endorsement.
+* The DAO community endorsed some sort of action by the Foundation and the Foundation was receptive to the idea and stated their desire to satisfy the request of the endorsement but has yet to do so.
 * The DAO community has endorsed the completion of some sort of functionality that may be contributed to the Effect Network Github by people not part of the Foundation
 
 ## Complete
