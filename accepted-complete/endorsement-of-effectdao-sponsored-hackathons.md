@@ -2,7 +2,7 @@
 description: 'Author: djstrikanova'
 ---
 
-# \#1: Endorsement of EffectDAO Sponsored Hackathons
+# \#1: Endorsement of EffectDAO Sponsored Hackathons \(C3\)
 
 {% embed url="https://dao.effect.network/proposals/1" %}
 
