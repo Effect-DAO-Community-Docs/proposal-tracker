@@ -11,6 +11,7 @@
 
 ## Accepted / Incomplete
 
+* [\#36: Cause and Effect \#2 \(Video Production\) \(C6\)](accepted-incomplete/36-cause-and-effect-2-video-production.md)
 * [\#30: Estimated DAO Rewards Calculator \(C5\)](accepted-incomplete/30-estimated-dao-rewards-calculator.md)
 * [\#29: "Worker of the Week" Page on DAO Dashboard \(C6\)](accepted-incomplete/29-worker-of-the-week-page-on-dao-dashboard.md)
 * [\#22: Rankless Dynamic Vote Weight Based on NFX and Stake Age \(C4\)](accepted-incomplete/22-rankless-dynamic-vote-weight-based-on-nfx-and-stake-age.md)
@@ -20,7 +21,7 @@
 
 ## Accepted / Complete
 
-* [\#36: Cause and Effect \#2 \(Video Production\) \(C6\)](accepted-complete/36-cause-and-effect-2-video-production.md)
+* [\#37: A guide on how to improve security by using a Ledger hardware wallet. \(C7\)](accepted-complete/37-a-guide-on-how-to-improve-security-by-using-a-ledger-hardware-wallet..md)
 * [\#31: Create Effect.ai plot in "The Uplift" NFT property platform \(C6\)](accepted-complete/31-create-effect-ai-plot-in-the-uplift-nft-property-platform.md)
 * [\#6: 30% of all unused cycle funds go to fee distribution \(C1\)](accepted-complete/untitled.md)
 
@@ -43,6 +44,7 @@
 
 ## Rejected
 
+* [\#38: Set Proposal Submission Cost to 10 EFX \(C7\)](rejected/38-set-proposal-submission-cost-to-10-efx-c7.md)
 * [\#34: Eliminate proposal fees, and instead issue a free proposal token to DAO members. \(C6\)](rejected/34-eliminate-proposal-fees-and-instead-issue-a-free-proposal-token-to-dao-members..md)
 * [\#27: Change budget for cycles 6-9 \(C5\)](rejected/27-change-budget-for-cycles-6-9.md)
 * [\#25: Extending EffectDAO Constitution to clarify IP rights \(C8\)](rejected/25-extending-effectdao-constitution-to-clarify-ip-rights.md)
