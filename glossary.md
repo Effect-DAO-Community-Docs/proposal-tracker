@@ -38,6 +38,10 @@ A proposal is considered out of scope if it requests the Foundation do something
 
 After a proposal is Accepted through a DAO vote the High Guard deliberate whether the proposal is bad or good for the network. If a majority of the High Guard vote against a proposal it is considered vetoed.
 
+## Exceptional
+
+These are unique situations that demand a special unique category for them. Each proposal in this category can be assumed unique. 
+
 ## What is \(C&lt;Number&gt;\)?
 
 This represents the cycle number a proposal was voted on.
