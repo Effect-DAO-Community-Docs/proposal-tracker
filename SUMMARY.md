@@ -13,7 +13,6 @@
 
 ## Accepted / Incomplete
 
-* [\#40: Tutorials for the Effect Dashboard and Binance Smart Chain \(C9\)](accepted-incomplete/40-tutorials-for-the-effect-dashboard-and-binance-smart-chain.md)
 * [\#36: Cause and Effect \#2 \(Video Production\) \(C6\)](accepted-incomplete/36-cause-and-effect-2-video-production.md)
 * [\#30: Estimated DAO Rewards Calculator \(C5\)](accepted-incomplete/30-estimated-dao-rewards-calculator.md)
 * [\#29: "Worker of the Week" Page on DAO Dashboard \(C6\)](accepted-incomplete/29-worker-of-the-week-page-on-dao-dashboard.md)
@@ -24,6 +23,7 @@
 
 ## Accepted / Complete
 
+* [\#40: Tutorials for the Effect Dashboard and Binance Smart Chain \(C9\)](accepted-complete/40-tutorials-for-the-effect-dashboard-and-binance-smart-chain.md)
 * [\#37: A guide on how to improve security by using a Ledger hardware wallet. \(C7\)](accepted-complete/37-a-guide-on-how-to-improve-security-by-using-a-ledger-hardware-wallet..md)
 * [\#31: Create Effect.ai plot in "The Uplift" NFT property platform \(C6\)](accepted-complete/31-create-effect-ai-plot-in-the-uplift-nft-property-platform.md)
 * [\#6: 30% of all unused cycle funds go to fee distribution \(C1\)](accepted-complete/untitled.md)

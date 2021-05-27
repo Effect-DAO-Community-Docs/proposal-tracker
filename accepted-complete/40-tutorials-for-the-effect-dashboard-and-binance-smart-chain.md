@@ -20,5 +20,9 @@ Those guides can be found the DAO Guides Space.
 
 {% embed url="https://effect-dao-docs.gitbook.io/dao-guides/binance-smart-chain/metamask-on-bsc" %}
 
+Videos: 
+
+{% embed url="https://www.youtube.com/watch?v=BMPhn0qrw7c" %}
+
 
 
