@@ -1,3 +1,7 @@
+---
+description: 'Author: djstrikanova'
+---
+
 # \#16: Expanding Documentation: Librarians Of The Galaxy \(C3\)
 
 {% embed url="https://dao.effect.network/proposals/16" %}

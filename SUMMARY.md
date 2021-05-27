@@ -11,6 +11,7 @@
 
 ## Accepted / Incomplete
 
+* [\#17: Counteract Inflationary Pressure of Treasury Funding By Burning 50% Of Network Fees \(C3\)](accepted-incomplete/17-counteract-inflationary-pressure-of-treasury-funding-by-burning-50-of-network-fees.md)
 * [\#16: Expanding Documentation: Librarians Of The Galaxy \(C3\)](accepted-incomplete/16-expanding-documentation-librarians-of-the-galaxy.md)
 * [\#1: Endorsement of EffectDAO Sponsored Hackathons \(C3\)](accepted-incomplete/endorsement-of-effectdao-sponsored-hackathons.md)
 
