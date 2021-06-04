@@ -2,7 +2,7 @@
 description: 'Proposal Author: djstrikanova'
 ---
 
-# \#45: DAO GitBook Proposal Tracker
+# \#45: DAO GitBook Proposal Tracker \(C12\)
 
 {% embed url="https://dao.effect.network/proposals/45" %}
 

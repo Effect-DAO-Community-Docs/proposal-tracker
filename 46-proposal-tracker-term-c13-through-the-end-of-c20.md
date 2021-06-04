@@ -2,7 +2,7 @@
 description: 'Proposal Author: splottingham'
 ---
 
-# \#46: Proposal Tracker Term C13 through the end of C20
+# \#46: Proposal Tracker Term C13 through the end of C20 \(C12\)
 
 {% embed url="https://dao.effect.network/proposals/46" %}
 

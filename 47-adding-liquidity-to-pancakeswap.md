@@ -2,7 +2,7 @@
 description: 'Author: rmblockchain'
 ---
 
-# \#47: Adding liquidity to Pancakeswap
+# \#47: Adding liquidity to Pancakeswap \(C12\)
 
 {% embed url="https://dao.effect.network/proposals/47" %}
 

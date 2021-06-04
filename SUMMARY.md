@@ -9,9 +9,9 @@
 
 ---
 
-* [\#45: DAO GitBook Proposal Tracker](45-dao-gitbook-proposal-tracker.md)
-* [\#46: Proposal Tracker Term C13 through the end of C20](46-proposal-tracker-term-c13-through-the-end-of-c20.md)
-* [\#47: Adding liquidity to Pancakeswap](47-adding-liquidity-to-pancakeswap.md)
+* [\#45: DAO GitBook Proposal Tracker \(C12\)](45-dao-gitbook-proposal-tracker.md)
+* [\#46: Proposal Tracker Term C13 through the end of C20 \(C12\)](46-proposal-tracker-term-c13-through-the-end-of-c20.md)
+* [\#47: Adding liquidity to Pancakeswap \(C12\)](47-adding-liquidity-to-pancakeswap.md)
 
 ## Accepted / Incomplete
 
