@@ -7,9 +7,11 @@
 
 ## Active
 
-* [\#44: DAO Call Recorder \(C11\)](active/44-dao-call-recorder-c11.md)
-* [\#43: Deployment of Rankless Dynamic Vote System \(P22\) \(C11\)](active/43-deployment-of-rankless-dynamic-vote-system-p22-c11.md)
-* [\#42: DAO GitBook Write-Up Consolidation \(C11\)](active/42-dao-gitbook-write-up-consolidation.md)
+---
+
+* [\#45: DAO GitBook Proposal Tracker](45-dao-gitbook-proposal-tracker.md)
+* [\#46: Proposal Tracker Term C13 through the end of C20](46-proposal-tracker-term-c13-through-the-end-of-c20.md)
+* [\#47: Adding liquidity to Pancakeswap](47-adding-liquidity-to-pancakeswap.md)
 
 ## Accepted / Incomplete
 
@@ -17,15 +19,18 @@
 * [\#36: Cause and Effect \#2 \(Video Production\) \(C6\)](accepted-incomplete/36-cause-and-effect-2-video-production.md)
 * [\#30: Estimated DAO Rewards Calculator \(C5\)](accepted-incomplete/30-estimated-dao-rewards-calculator.md)
 * [\#29: "Worker of the Week" Page on DAO Dashboard \(C6\)](accepted-incomplete/29-worker-of-the-week-page-on-dao-dashboard.md)
-* [\#22: Rankless Dynamic Vote Weight Based on NFX and Stake Age \(C4\)](accepted-incomplete/22-rankless-dynamic-vote-weight-based-on-nfx-and-stake-age.md)
 * [\#17: Counteract Inflationary Pressure of Treasury Funding By Burning 50% Of Network Fees \(C3\)](accepted-incomplete/17-counteract-inflationary-pressure-of-treasury-funding-by-burning-50-of-network-fees.md)
 * [\#16: Expanding Documentation: Librarians Of The Galaxy \(C3\)](accepted-incomplete/16-expanding-documentation-librarians-of-the-galaxy.md)
 * [\#1: Endorsement of EffectDAO Sponsored Hackathons \(C3\)](accepted-incomplete/endorsement-of-effectdao-sponsored-hackathons.md)
 
 ## Accepted / Complete
 
+* [\#44: DAO Call Recorder \(C11\)](accepted-complete/44-dao-call-recorder-c11.md)
+* [\#43: Deployment of Rankless Dynamic Vote System \(P22\) \(C11\)](accepted-complete/43-deployment-of-rankless-dynamic-vote-system-p22-c11.md)
+* [\#42: DAO GitBook Write-Up Consolidation \(C11\)](accepted-complete/42-dao-gitbook-write-up-consolidation.md)
 * [\#37: A guide on how to improve security by using a Ledger hardware wallet. \(C7\)](accepted-complete/37-a-guide-on-how-to-improve-security-by-using-a-ledger-hardware-wallet..md)
 * [\#31: Create Effect.ai plot in "The Uplift" NFT property platform \(C6\)](accepted-complete/31-create-effect-ai-plot-in-the-uplift-nft-property-platform.md)
+* [\#22: Rankless Dynamic Vote Weight Based on NFX and Stake Age \(C4\)](accepted-complete/22-rankless-dynamic-vote-weight-based-on-nfx-and-stake-age.md)
 * [\#6: 30% of all unused cycle funds go to fee distribution \(C1\)](accepted-complete/untitled.md)
 
 ## Accepted / Exceptional

@@ -10,5 +10,5 @@ This proposal was a technical proposal that requested the Foundation abolish ran
 
 {% embed url="https://dao.effect.network/proposals/43" %}
 
-
+This P43 has both passed and has been implemented on June 4th, 2021. Thus both P22 and P43 can be considered complete.
 
