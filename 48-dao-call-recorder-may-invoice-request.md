@@ -4,7 +4,7 @@ description: 'Proposal Author: scarletalpha'
 
 # \#48: DAO Call Recorder - May 'invoice' request
 
-{% page-ref page="48-dao-call-recorder-may-invoice-request.md" %}
+{% embed url="https://dao.effect.network/proposals/48" %}
 
 
 
