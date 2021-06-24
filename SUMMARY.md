@@ -9,12 +9,12 @@
 
 ---
 
-* [\#45: DAO GitBook Proposal Tracker \(C12\)](45-dao-gitbook-proposal-tracker.md)
-* [\#46: Proposal Tracker Term C13 through the end of C20 \(C12\)](46-proposal-tracker-term-c13-through-the-end-of-c20.md)
-* [\#47: Adding liquidity to Pancakeswap \(C12\)](47-adding-liquidity-to-pancakeswap.md)
+* [\#49: Role of Responsibility - Formal Creation - DAO Call Recorder](49-role-of-responsibility-formal-creation-dao-call-recorder.md)
 
 ## Accepted / Incomplete
 
+* [\#46: Proposal Tracker Term C13 through the end of C20 \(C12\)](accepted-incomplete/46-proposal-tracker-term-c13-through-the-end-of-c20.md)
+* [\#47: Adding liquidity to Pancakeswap \(C12\)](accepted-incomplete/47-adding-liquidity-to-pancakeswap.md)
 * [\#40: Tutorials for the Effect Dashboard and Binance Smart Chain \(C9\)](accepted-incomplete/40-tutorials-for-the-effect-dashboard-and-binance-smart-chain.md)
 * [\#36: Cause and Effect \#2 \(Video Production\) \(C6\)](accepted-incomplete/36-cause-and-effect-2-video-production.md)
 * [\#30: Estimated DAO Rewards Calculator \(C5\)](accepted-incomplete/30-estimated-dao-rewards-calculator.md)
@@ -25,6 +25,7 @@
 
 ## Accepted / Complete
 
+* [\#45: DAO GitBook Proposal Tracker \(C12\)](accepted-complete/45-dao-gitbook-proposal-tracker.md)
 * [\#44: DAO Call Recorder \(C11\)](accepted-complete/44-dao-call-recorder-c11.md)
 * [\#43: Deployment of Rankless Dynamic Vote System \(P22\) \(C11\)](accepted-complete/43-deployment-of-rankless-dynamic-vote-system-p22-c11.md)
 * [\#42: DAO GitBook Write-Up Consolidation \(C11\)](accepted-complete/42-dao-gitbook-write-up-consolidation.md)
