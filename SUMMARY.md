@@ -9,6 +9,7 @@
 
 ---
 
+* [\#48: DAO Call Recorder - May 'invoice' request](48-dao-call-recorder-may-invoice-request.md)
 * [\#50: DAO Call Recorder - Application to fulfill the role](50-dao-call-recorder-application-to-fulfill-the-role.md)
 * [\#49: Role of Responsibility - Formal Creation - DAO Call Recorder](49-role-of-responsibility-formal-creation-dao-call-recorder.md)
 
