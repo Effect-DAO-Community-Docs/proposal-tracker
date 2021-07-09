@@ -7,11 +7,7 @@
 
 ## Active
 
----
-
-* [\#48: DAO Call Recorder - May 'invoice' request](48-dao-call-recorder-may-invoice-request.md)
-* [\#49: Role of Responsibility - Formal Creation - DAO Call Recorder](49-role-of-responsibility-formal-creation-dao-call-recorder.md)
-* [\#50: DAO Call Recorder - Application to fulfill the role](50-dao-call-recorder-application-to-fulfill-the-role.md)
+* [\#51: Integrate My Calculator With The Effect DAO Dashboard](active/51-integrate-my-calculator-with-the-effect-dao-dashboard.md)
 
 ## Accepted / Incomplete
 
@@ -27,6 +23,9 @@
 
 ## Accepted / Complete
 
+* [\#49: Role of Responsibility - Formal Creation - DAO Call Recorder](accepted-complete/49-role-of-responsibility-formal-creation-dao-call-recorder/README.md)
+  * [\#48: DAO Call Recorder - May 'invoice' request](accepted-complete/49-role-of-responsibility-formal-creation-dao-call-recorder/48-dao-call-recorder-may-invoice-request.md)
+* [\#50: DAO Call Recorder - Application to fulfill the role](accepted-complete/50-dao-call-recorder-application-to-fulfill-the-role.md)
 * [\#45: DAO GitBook Proposal Tracker \(C12\)](accepted-complete/45-dao-gitbook-proposal-tracker.md)
 * [\#44: DAO Call Recorder \(C11\)](accepted-complete/44-dao-call-recorder-c11.md)
 * [\#43: Deployment of Rankless Dynamic Vote System \(P22\) \(C11\)](accepted-complete/43-deployment-of-rankless-dynamic-vote-system-p22-c11.md)
