@@ -7,7 +7,10 @@
 
 ## Active
 
-* [\#51: Integrate My Calculator With The Effect DAO Dashboard](active/51-integrate-my-calculator-with-the-effect-dao-dashboard.md)
+* [\#66: Weekly DAO Call - Seeking Equitable Weekly DAO Call Times](active/66-weekly-dao-call-seeking-equitable-weekly-dao-call-times.md)
+* [\#65: DAO Call Recorder – June 2021 ‘invoice’ Request](active/65-dao-call-recorder-june-2021-invoice-request.md)
+* [\#64: DAO Governance Rewards 30% Unused vs Fixed](active/64-dao-governance-rewards-30-unused-vs-fixed.md)
+* [\#52-63: Open Source Grant](active/52-portion-1-open-source-grant.md)
 
 ## Accepted / Incomplete
 
@@ -54,7 +57,8 @@
 
 ## Rejected
 
-* [\#41: Blockchain Cold Wallet Safety Guide - For BSC & EOS \(C10\)](rejected/41-blockchain-cold-wallet-safety-guide-for-bsc-and-eos.md)
+* [\#41: Blockchain Cold Wallet Safety Guide - For BSC & EOS \(C10\)](rejected/41-blockchain-cold-wallet-safety-guide-for-bsc-and-eos/README.md)
+  * [\#51: Integrate My Calculator With The Effect DAO Dashboard](rejected/41-blockchain-cold-wallet-safety-guide-for-bsc-and-eos/51-integrate-my-calculator-with-the-effect-dao-dashboard.md)
 * [\#39: Easter Basket \(C8\)](rejected/39-easter-basket.md)
 * [\#38: Set Proposal Submission Cost to 10 EFX \(C7\)](rejected/38-set-proposal-submission-cost-to-10-efx-c7.md)
 * [\#34: Eliminate proposal fees, and instead issue a free proposal token to DAO members. \(C6\)](rejected/34-eliminate-proposal-fees-and-instead-issue-a-free-proposal-token-to-dao-members..md)
