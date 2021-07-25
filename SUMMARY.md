@@ -7,6 +7,7 @@
 
 ## Active
 
+* [\#67: Incentivised program for Liquidity on Pancakeswap](active/67-incentivised-program-for-liquidity-on-pancakeswap.md)
 * [\#66: Weekly DAO Call - Seeking Equitable Weekly DAO Call Times](active/66-weekly-dao-call-seeking-equitable-weekly-dao-call-times.md)
 * [\#65: DAO Call Recorder – June 2021 ‘invoice’ Request](active/65-dao-call-recorder-june-2021-invoice-request.md)
 * [\#64: DAO Governance Rewards 30% Unused vs Fixed](active/64-dao-governance-rewards-30-unused-vs-fixed.md)
