@@ -11,7 +11,6 @@
 * [\#66: Weekly DAO Call - Seeking Equitable Weekly DAO Call Times](active/66-weekly-dao-call-seeking-equitable-weekly-dao-call-times.md)
 * [\#65: DAO Call Recorder – June 2021 ‘invoice’ Request](active/65-dao-call-recorder-june-2021-invoice-request.md)
 * [\#64: DAO Governance Rewards 30% Unused vs Fixed](active/64-dao-governance-rewards-30-unused-vs-fixed.md)
-* [\#52-63: Open Source Grant](active/52-portion-1-open-source-grant.md)
 
 ## Accepted / Incomplete
 
@@ -27,6 +26,7 @@
 
 ## Accepted / Complete
 
+* [\#52-56: Open Source Grant](accepted-complete/52-portion-1-open-source-grant.md)
 * [\#49: Role of Responsibility - Formal Creation - DAO Call Recorder](accepted-complete/49-role-of-responsibility-formal-creation-dao-call-recorder/README.md)
   * [\#48: DAO Call Recorder - May 'invoice' request](accepted-complete/49-role-of-responsibility-formal-creation-dao-call-recorder/48-dao-call-recorder-may-invoice-request.md)
 * [\#50: DAO Call Recorder - Application to fulfill the role](accepted-complete/50-dao-call-recorder-application-to-fulfill-the-role.md)
@@ -58,6 +58,7 @@
 
 ## Rejected
 
+* [\#57-63: Open Source Grant](rejected/57-63-open-source-grant.md)
 * [\#41: Blockchain Cold Wallet Safety Guide - For BSC & EOS \(C10\)](rejected/41-blockchain-cold-wallet-safety-guide-for-bsc-and-eos/README.md)
   * [\#51: Integrate My Calculator With The Effect DAO Dashboard](rejected/41-blockchain-cold-wallet-safety-guide-for-bsc-and-eos/51-integrate-my-calculator-with-the-effect-dao-dashboard.md)
 * [\#39: Easter Basket \(C8\)](rejected/39-easter-basket.md)

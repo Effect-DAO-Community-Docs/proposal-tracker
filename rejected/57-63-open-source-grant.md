@@ -2,19 +2,7 @@
 description: 'Author: djstrikanova'
 ---
 
-# \#52-63: Open Source Grant
-
-This set of proposals is to reward djstrikanova for developing a calculator for estimating DAO rewards.
-
-{% embed url="https://dao.effect.network/proposals/52" %}
-
-{% embed url="https://dao.effect.network/proposals/53" %}
-
-{% embed url="https://dao.effect.network/proposals/54" %}
-
-{% embed url="https://dao.effect.network/proposals/55" %}
-
-{% embed url="https://dao.effect.network/proposals/56" %}
+# \#57-63: Open Source Grant
 
 {% embed url="https://dao.effect.network/proposals/57" %}
 
@@ -29,6 +17,8 @@ This set of proposals is to reward djstrikanova for developing a calculator for 
 {% embed url="https://dao.effect.network/proposals/62" %}
 
 {% embed url="https://dao.effect.network/proposals/63" %}
+
+
 
 
 
