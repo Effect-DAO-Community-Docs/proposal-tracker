@@ -9,6 +9,9 @@
 
 ## Accepted / Complete
 
+* [\#71: DEADLINE August 20th 12pm ET! Orion Protocol EFX-USDT URGENT MESSAGE](accepted-complete/71-deadline-august-20th-12pm-et-orion-protocol-efx-usdt-urgent-message.md)
+* [\#70: Incentivised program for Liquidity on Pancakeswap \(part 2\)](accepted-complete/70-incentivised-program-for-liquidity-on-pancakeswap-part-2.md)
+* [\#69: DAO Call Recorder – July 2021 ‘invoice’ Request](accepted-complete/69-dao-call-recorder-july-2021-invoice-request.md)
 * [\#68: NEW REVISED POLL - Seeking Equitable Weekly DAO Call Times](accepted-complete/68-new-revised-poll-seeking-equitable-weekly-dao-call-times.md)
 * [\#67: Incentivised program for Liquidity on Pancakeswap](accepted-complete/67-incentivised-program-for-liquidity-on-pancakeswap.md)
 * [\#66: Weekly DAO Call - Seeking Equitable Weekly DAO Call Times](accepted-complete/66-weekly-dao-call-seeking-equitable-weekly-dao-call-times.md)
