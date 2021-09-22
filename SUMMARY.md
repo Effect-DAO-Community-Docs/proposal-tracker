@@ -9,6 +9,7 @@
 
 ## Accepted / Complete
 
+* [\#68: NEW REVISED POLL - Seeking Equitable Weekly DAO Call Times](accepted-complete/68-new-revised-poll-seeking-equitable-weekly-dao-call-times.md)
 * [\#67: Incentivised program for Liquidity on Pancakeswap](accepted-complete/67-incentivised-program-for-liquidity-on-pancakeswap.md)
 * [\#66: Weekly DAO Call - Seeking Equitable Weekly DAO Call Times](accepted-complete/66-weekly-dao-call-seeking-equitable-weekly-dao-call-times.md)
 * [\#65: DAO Call Recorder – June 2021 ‘invoice’ Request](accepted-complete/65-dao-call-recorder-june-2021-invoice-request.md)
