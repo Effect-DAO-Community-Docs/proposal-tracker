@@ -2,7 +2,7 @@
 description: 'Proposal Author: djstrikanova'
 ---
 
-# \#22: Rankless Dynamic Vote Weight Based on NFX and Stake Age \(C4\)
+# #22: Rankless Dynamic Vote Weight Based on NFX and Stake Age (C4)
 
 {% embed url="https://dao.effect.network/proposals/22" %}
 
@@ -11,4 +11,3 @@ This proposal was a technical proposal that requested the Foundation abolish ran
 {% embed url="https://dao.effect.network/proposals/43" %}
 
 This P43 has both passed and has been implemented on June 4th, 2021. Thus both P22 and P43 can be considered complete.
-

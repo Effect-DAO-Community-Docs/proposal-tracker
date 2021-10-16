@@ -6,6 +6,4 @@ If you are the author of a proposal and would like your proposal page updated ch
 
 This tracker is not intended to provide an in depth analysis of each proposal, if you are interested in further information about a proposal it is highly recommended to read the full proposal available on the Effect DAO Dashboard and also discuss it with the author on the community discord server.
 
-  
-
-
+\

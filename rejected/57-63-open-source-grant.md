@@ -2,7 +2,7 @@
 description: 'Author: djstrikanova'
 ---
 
-# \#57-63: Open Source Grant
+# #57-63: Open Source Grant
 
 {% embed url="https://dao.effect.network/proposals/57" %}
 
@@ -17,8 +17,6 @@ description: 'Author: djstrikanova'
 {% embed url="https://dao.effect.network/proposals/62" %}
 
 {% embed url="https://dao.effect.network/proposals/63" %}
-
-
 
 
 

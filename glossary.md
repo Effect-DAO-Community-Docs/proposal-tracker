@@ -10,7 +10,7 @@ A proposal has ended a cycle with more "No" votes than "Yes" votes.
 
 ## Incomplete
 
-A proposal is considered incomplete if...  
+A proposal is considered incomplete if...\
 
 
 * The author of a proposal pledged to complete some sort of task and has not yet completed the task.
@@ -34,7 +34,7 @@ A proposal is considered superseded if it was Accepted but before it could be co
 
 A proposal is considered out of scope if it requests the Foundation do something they don't want to do or do not feel obligated to do. It may also be a proposal that endorses some sort of action but the Foundation is not receptive to the action and there is no possible alternative.
 
-## HG Veto \(High Guard Veto\)
+## HG Veto (High Guard Veto)
 
 After a proposal is Accepted through a DAO vote the High Guard deliberate whether the proposal is bad or good for the network. If a majority of the High Guard vote against a proposal it is considered vetoed.
 
@@ -42,7 +42,6 @@ After a proposal is Accepted through a DAO vote the High Guard deliberate whethe
 
 These are unique situations that demand a special unique category for them. Each proposal in this category can be assumed unique. 
 
-## What is \(C&lt;Number&gt;\)?
+## What is (C\<Number>)?
 
 This represents the cycle number a proposal was voted on.
-
