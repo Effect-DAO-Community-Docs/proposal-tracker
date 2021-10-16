@@ -7,8 +7,15 @@
 
 ## Active
 
+* [#77: EFX PancakeSwap LP Reward Farm - Funding (2/4)](active/77-efx-pancakeswap-lp-reward-farm-funding-2-4.md)
+* [#76: DAO Call Recorder – September 2021 ‘invoice’ Request](active/76-dao-call-recorder-september-2021-invoice-request.md)
+
 ## Accepted / Complete
 
+* [#75: Continuation of the EFX PancakeSwap LP Reward Farm](accepted-complete/75-continuation-of-the-efx-pancakeswap-lp-reward-farm.md)
+* [#74: Task creation funded by unused DAO funds](accepted-complete/74-task-creation-funded-by-unused-dao-funds.md)
+* [#73: Weekly DAO Call Recordings](accepted-complete/73-weekly-dao-call-recordings.md)
+* [#72: DAO Call Recorder – August 2021 ‘invoice’ Request](accepted-complete/72-dao-call-recorder-august-2021-invoice-request.md)
 * [#71: DEADLINE August 20th 12pm ET! Orion Protocol EFX-USDT URGENT MESSAGE](accepted-complete/71-deadline-august-20th-12pm-et-orion-protocol-efx-usdt-urgent-message.md)
 * [#70: Incentivised program for Liquidity on Pancakeswap (part 2)](accepted-complete/70-incentivised-program-for-liquidity-on-pancakeswap-part-2.md)
 * [#69: DAO Call Recorder – July 2021 ‘invoice’ Request](accepted-complete/69-dao-call-recorder-july-2021-invoice-request.md)
