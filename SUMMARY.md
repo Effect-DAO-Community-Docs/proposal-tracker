@@ -7,11 +7,12 @@
 
 ## Active
 
-* [#77: EFX PancakeSwap LP Reward Farm - Funding (2/4)](active/77-efx-pancakeswap-lp-reward-farm-funding-2-4.md)
-* [#76: DAO Call Recorder – September 2021 ‘invoice’ Request](active/76-dao-call-recorder-september-2021-invoice-request.md)
+* [#90 Truth Translating](active/90-truth-translating.md)
 
 ## Accepted / Complete
 
+* [#77: EFX PancakeSwap LP Reward Farm - Funding (2/4)](accepted-complete/77-efx-pancakeswap-lp-reward-farm-funding-2-4.md)
+* [#76: DAO Call Recorder – September 2021 ‘invoice’ Request](accepted-complete/76-dao-call-recorder-september-2021-invoice-request.md)
 * [#75: Continuation of the EFX PancakeSwap LP Reward Farm](accepted-complete/75-continuation-of-the-efx-pancakeswap-lp-reward-farm.md)
 * [#74: Task creation funded by unused DAO funds](accepted-complete/74-task-creation-funded-by-unused-dao-funds.md)
 * [#73: Weekly DAO Call Recordings](accepted-complete/73-weekly-dao-call-recordings.md)
@@ -39,13 +40,13 @@
 * [#30: Estimated DAO Rewards Calculator (C5)](accepted-complete/30-estimated-dao-rewards-calculator.md)
 * [#22: Rankless Dynamic Vote Weight Based on NFX and Stake Age (C4)](accepted-complete/22-rankless-dynamic-vote-weight-based-on-nfx-and-stake-age.md)
 * [#6: 30% of all unused cycle funds go to fee distribution (C1)](accepted-complete/untitled.md)
+* [#1: Endorsement of EffectDAO Sponsored Hackathons (C3)](accepted-complete/endorsement-of-effectdao-sponsored-hackathons.md)
 
 ## Accepted / Incomplete
 
 * [#36: Cause and Effect #2 (Video Production) (C6)](accepted-incomplete/36-cause-and-effect-2-video-production.md)
 * [#17: Counteract Inflationary Pressure of Treasury Funding By Burning 50% Of Network Fees (C3)](accepted-incomplete/17-counteract-inflationary-pressure-of-treasury-funding-by-burning-50-of-network-fees.md)
 * [#16: Expanding Documentation: Librarians Of The Galaxy (C3)](accepted-incomplete/16-expanding-documentation-librarians-of-the-galaxy.md)
-* [#1: Endorsement of EffectDAO Sponsored Hackathons (C3)](accepted-incomplete/endorsement-of-effectdao-sponsored-hackathons.md)
 
 ## Accepted / Exceptional
 
