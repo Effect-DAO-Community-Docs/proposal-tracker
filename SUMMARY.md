@@ -9,6 +9,31 @@
 
 ***
 
+* [#114: EFX PancakeSwap LP Reward Farm Funding 2/10](114-efx-pancakeswap-lp-reward-farm-funding-2-10.md)
+* [#113: EFX PancakeSwap LP Reward Farm Funding 1/10 (C48)](113-efx-pancakeswap-lp-reward-farm-funding-1-10-c48.md)
+* [#111: DAO 2.0 Plan (C48)](111-dao-2.0-plan-c48.md)
+* [#110: EFX PancakeSwap LP Reward Farm #5 (C46)](110-efx-pancakeswap-lp-reward-farm-5-c46.md)
+* [#109: Launchathon 🏆️(C44)](109-launchathon-c44.md)
+* [#108: Approval for DAO Telegram Rules (C43)](108-approval-for-dao-telegram-rules-c43.md)
+* [#107: Effect Network One Page Profile (C42)](107-effect-network-one-page-profile-c42.md)
+* [#106: Implement network fees (C41)](106-implement-network-fees-c41.md)
+* [#105: Support NFX as payment option for DAO proposals (C41)](105-support-nfx-as-payment-option-for-dao-proposals-c41.md)
+* [#104: Second funding for EFX PancakeSwap LP Reward Farm #4 (C38)](104-second-funding-for-efx-pancakeswap-lp-reward-farm-4-c38.md)
+* [#103: Request to contact admins/mods for Telegram (C37)](103-request-to-contact-admins-mods-for-telegram-c37.md)
+* [#102: EFX PancakeSwap LP Reward Farm #4](102-efx-pancakeswap-lp-reward-farm-4.md)
+* [#101: Call Out for Telegram Admins and Monitors!!! (C36)](101-call-out-for-telegram-admins-and-monitors-c36.md)
+* [#99: Formal Creation - DAO Managed Telegram Channel (C35)](99-formal-creation-dao-managed-telegram-channel-c35.md)
+* [#98: Role of Responsibility - Formal Creation - DAO Telegram Channel Administration (x2)(C35)](98-role-of-responsibility-formal-creation-dao-telegram-channel-administration-x2-c35.md)
+* [#97: Acceptance of a New Proposal Tracker (C33)](97-acceptance-of-a-new-proposal-tracker-c33.md)
+* [#96: Developer Pool for DAO Development (C32)](96-developer-pool-for-dao-development-c32.md)
+* [#95: Developer Pool for DAO Development (C46)](95-developer-pool-for-dao-development-c46.md)
+* [#94: Seeking sentiment for a monthly/bi-monthly AMA with the team (C32)](94-seeking-sentiment-for-a-monthly-bi-monthly-ama-with-the-team-c32.md)
+* [#93: EFX PancakeSwap LP Reward Farm #3 (C30)](93-efx-pancakeswap-lp-reward-farm-3-c30.md)
+* [#91: EFX PancakeSwap LP Reward Farm #3 (C28)](91-efx-pancakeswap-lp-reward-farm-3-c28.md)
+* [#89: Extend the Life of NEO EFX Nep-5 (Neo Legacy) by creating a bridge portal to Nep-17 (N3)(C27)](89-extend-the-life-of-neo-efx-nep-5-neo-legacy-by-creating-a-bridge-portal-to-nep-17-n3-c27.md)
+* [#88: EFX Power Booster (C27)](88-efx-power-booster-c27.md)
+* [#87: Sentiment-Marketing the DAO (C27)](87-sentiment-marketing-the-dao-c27.md)
+* [#86: Update Proposal Categories (C26)](86-update-proposal-categories-c26.md)
 * [#85: EffectDAO (C25)](85-effectdao-c25.md)
 * [#84: Creation of DAO Investment Fund (C25)](84-creation-of-dao-investment-fund-c25.md)
 * [#83: Effect Network Hackathon #3 (Final) (C24)](83-effect-network-hackathon-3-final-c24.md)
@@ -19,7 +44,7 @@
 
 ## Accepted / Complete
 
-* [#90 Truth Translating (C24)](accepted-complete/90-truth-translating-c24.md)
+* [#90 Truth Translating (C24)](active/90-truth-translating.md)
 * [#74: Task creation funded by unused DAO funds (C20)](accepted-complete/74-task-creation-funded-by-unused-dao-funds.md)
 * [#71: DEADLINE August 20th 12pm ET! Orion Protocol EFX-USDT URGENT MESSAGE (C18)](accepted-complete/71-deadline-august-20th-12pm-et-orion-protocol-efx-usdt-urgent-message.md)
 * [#68: NEW REVISED POLL - Seeking Equitable Weekly DAO Call Times (C16)](accepted-complete/68-new-revised-poll-seeking-equitable-weekly-dao-call-times.md)
