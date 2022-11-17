@@ -7,28 +7,28 @@
 
 ## Active
 
-* [#90 Truth Translating](active/90-truth-translating.md)
+* [#90 Truth Translating (C24)](active/90-truth-translating-c24.md)
 
 ## Accepted / Complete
 
-* [#74: Task creation funded by unused DAO funds (C20)](accepted-complete/74-task-creation-funded-by-unused-dao-funds-c20.md)
+* [#74: Task creation funded by unused DAO funds (C20)](accepted-complete/74-task-creation-funded-by-unused-dao-funds.md)
 * [#71: DEADLINE August 20th 12pm ET! Orion Protocol EFX-USDT URGENT MESSAGE (C18)](accepted-complete/71-deadline-august-20th-12pm-et-orion-protocol-efx-usdt-urgent-message.md)
 * [#68: NEW REVISED POLL - Seeking Equitable Weekly DAO Call Times (C16)](accepted-complete/68-new-revised-poll-seeking-equitable-weekly-dao-call-times.md)
 * [#66: Weekly DAO Call - Seeking Equitable Weekly DAO Call Times (C15)](accepted-complete/66-weekly-dao-call-seeking-equitable-weekly-dao-call-times.md)
 * [#52-56: Open Source Grant (C15)](accepted-complete/52-portion-1-open-source-grant.md)
 * [DAO Call Recorder](accepted-complete/dao-call-recorder/README.md)
-  * [#76: DAO Call Recorder – September 2021 ‘invoice’ Request (C21)](accepted-complete/dao-call-recorder/76-dao-call-recorder-september-2021-invoice-request-c21.md)
-  * [#73: Weekly DAO Call Recordings (C20)](accepted-complete/dao-call-recorder/73-weekly-dao-call-recordings-c20.md)
-  * [#72: DAO Call Recorder – August 2021 ‘invoice’ Request (C19)](accepted-complete/dao-call-recorder/72-dao-call-recorder-august-2021-invoice-request-c19.md)
+  * [#76: DAO Call Recorder – September 2021 ‘invoice’ Request (C21)](accepted-complete/76-dao-call-recorder-september-2021-invoice-request.md)
+  * [#73: Weekly DAO Call Recordings (C20)](accepted-complete/73-weekly-dao-call-recordings.md)
+  * [#72: DAO Call Recorder – August 2021 ‘invoice’ Request (C19)](accepted-complete/72-dao-call-recorder-august-2021-invoice-request.md)
   * [#69: DAO Call Recorder – July 2021 ‘invoice’ Request (C17)](accepted-complete/69-dao-call-recorder-july-2021-invoice-request.md)
   * [#65: DAO Call Recorder – June 2021 ‘invoice’ Request (C15)](accepted-complete/65-dao-call-recorder-june-2021-invoice-request.md)
   * [#50: DAO Call Recorder - Application to fulfill the role (C13)](accepted-complete/50-dao-call-recorder-application-to-fulfill-the-role.md)
   * [#49: Role of Responsibility - Formal Creation - DAO Call Recorder (C13)](accepted-complete/49-role-of-responsibility-formal-creation-dao-call-recorder/README.md)
   * [#48: DAO Call Recorder - May 'invoice' request (C13)](accepted-complete/49-role-of-responsibility-formal-creation-dao-call-recorder/48-dao-call-recorder-may-invoice-request.md)
-  * [#44: DAO Call Recorder (C11)](accepted-complete/dao-call-recorder/44-dao-call-recorder-c11.md)
+  * [#44: DAO Call Recorder (C11)](accepted-complete/44-dao-call-recorder-c11.md)
 * [PancakeSwap](accepted-complete/pancakeswap/README.md)
-  * [#77: EFX PancakeSwap LP Reward Farm - Funding (2/4) (C21)](accepted-complete/pancakeswap/77-efx-pancakeswap-lp-reward-farm-funding-2-4-c21.md)
-  * [#75: Continuation of the EFX PancakeSwap LP Reward Farm (C20)](accepted-complete/pancakeswap/75-continuation-of-the-efx-pancakeswap-lp-reward-farm-c20.md)
+  * [#77: EFX PancakeSwap LP Reward Farm - Funding (2/4) (C21)](accepted-complete/77-efx-pancakeswap-lp-reward-farm-funding-2-4.md)
+  * [#75: Continuation of the EFX PancakeSwap LP Reward Farm (C20)](accepted-complete/75-continuation-of-the-efx-pancakeswap-lp-reward-farm.md)
   * [#70: Incentivised program for Liquidity on Pancakeswap (part 2) (C17)](accepted-complete/70-incentivised-program-for-liquidity-on-pancakeswap-part-2.md)
   * [#67: Incentivised program for Liquidity on Pancakeswap (C15)](accepted-complete/67-incentivised-program-for-liquidity-on-pancakeswap.md)
   * [#47: Adding liquidity to Pancakeswap (C12)](accepted-complete/47-adding-liquidity-to-pancakeswap.md)

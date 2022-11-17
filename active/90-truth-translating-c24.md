@@ -2,6 +2,5 @@
 description: 'Proposal Author: lawrencetori'
 ---
 
-# #90 Truth Translating
+# #90 Truth Translating (C24)
 
-C24

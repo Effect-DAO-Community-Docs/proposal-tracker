@@ -2,7 +2,7 @@
 description: 'Author: guztgnjyguge'
 ---
 
-# #74: Task creation funded by unused DAO funds
+# #74: Task creation funded by unused DAO funds (C20)
 
 {% embed url="https://dao.effect.network/proposals/74" %}
 
