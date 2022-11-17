@@ -10,4 +10,4 @@ This proposal requested treasury funds to finance the creation of a written guid
 
 [https://effect-dao-docs.gitbook.io/dao-guides/ledger-with-eos-and-metamask](https://effect-dao-docs.gitbook.io/dao-guides/ledger-with-eos-and-metamask)
 
- 
+&#x20;

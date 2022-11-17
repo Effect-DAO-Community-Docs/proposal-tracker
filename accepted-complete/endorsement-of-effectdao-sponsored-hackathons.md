@@ -8,4 +8,4 @@ description: 'Proposal Author: djstrikanova'
 
 This proposal is structured as an endorsement for a hackathon, so there is technically no action required from the Foundation. The Foundation, however, was very receptive to the idea and put a hackathon in their 2021 roadmap. This proposal will be considered incomplete until the hackathon occurs.&#x20;
 
-![](../../.gitbook/assets/roadmap.jpg)
+![](../.gitbook/assets/roadmap.jpg)

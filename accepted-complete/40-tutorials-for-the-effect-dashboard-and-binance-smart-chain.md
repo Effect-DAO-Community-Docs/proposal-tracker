@@ -6,7 +6,7 @@ description: 'Proposal Author: raskendrills'
 
 {% embed url="https://dao.effect.network/proposals/40" %}
 
-This was a request for funds to write guides and create a video. 
+This was a request for funds to write guides and create a video.&#x20;
 
 Those guides can be found the DAO Guides Space.
 
@@ -20,7 +20,7 @@ Those guides can be found the DAO Guides Space.
 
 {% embed url="https://effect-dao-docs.gitbook.io/dao-guides/binance-smart-chain/metamask-on-bsc" %}
 
-Videos: 
+Videos:&#x20;
 
 {% embed url="https://www.youtube.com/watch?v=BMPhn0qrw7c" %}
 
