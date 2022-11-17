@@ -12,10 +12,10 @@ This was a task based proposal that requested EFX in exchange for building a Boi
 
 Documentation of completion was provided by @ghobson on Telegram.&#x20;
 
-![](../../.gitbook/assets/p31-3.jpg)
+![](../.gitbook/assets/p31-3.jpg)
 
 &#x20;
 
-![](../../.gitbook/assets/p31-2.jpg)
+![](../.gitbook/assets/p31-2.jpg)
 
-![](../../.gitbook/assets/p31-1.jpg)
+![](../.gitbook/assets/p31-1.jpg)
