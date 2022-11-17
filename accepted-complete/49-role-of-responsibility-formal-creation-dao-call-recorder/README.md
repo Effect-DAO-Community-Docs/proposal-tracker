@@ -2,7 +2,7 @@
 description: 'Proposal Author: scarletalpha'
 ---
 
-# #49: Role of Responsibility - Formal Creation - DAO Call Recorder
+# #49: Role of Responsibility - Formal Creation - DAO Call Recorder (C13)
 
 {% embed url="https://dao.effect.network/proposals/49" %}
 

@@ -2,7 +2,7 @@
 description: 'Proposal Author: scarletalpha'
 ---
 
-# #50: DAO Call Recorder - Application to fulfill the role
+# #50: DAO Call Recorder - Application to fulfill the role (C13)
 
 {% embed url="https://dao.effect.network/proposals/50" %}
 

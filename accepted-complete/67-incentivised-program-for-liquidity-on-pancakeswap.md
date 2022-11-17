@@ -2,7 +2,7 @@
 description: 'Author: rmblockchain'
 ---
 
-# #67: Incentivised program for Liquidity on Pancakeswap
+# #67: Incentivised program for Liquidity on Pancakeswap (C15)
 
 A proposed a strategy for an incentivized program for liquidity providers on Pancakeswap.
 

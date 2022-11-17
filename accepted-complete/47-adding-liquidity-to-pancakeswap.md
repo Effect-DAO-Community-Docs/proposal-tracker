@@ -10,6 +10,6 @@ This is an endorsement proposal for investigating the idea of the DAO contributi
 
 
 
-The farm is now available at 
+The farm is now available at&#x20;
 
 [https://bridge.effect.network/farm](https://bridge.effect.network/farm)

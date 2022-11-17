@@ -2,7 +2,7 @@
 description: 'Author: rochelle.ai'
 ---
 
-# #73: Weekly DAO Call Recordings
+# #73: Weekly DAO Call Recordings (C20)
 
 {% embed url="https://dao.effect.network/proposals/73" %}
 

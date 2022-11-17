@@ -2,7 +2,7 @@
 description: 'Author: hazdkmbxgene'
 ---
 
-# #77: EFX PancakeSwap LP Reward Farm - Funding (2/4)
+# #77: EFX PancakeSwap LP Reward Farm - Funding (2/4) (C21)
 
 {% embed url="https://dao.effect.network/proposals/77" %}
 
@@ -10,6 +10,6 @@ Continuation of the Funding for the LP farm established in P75
 
 {% embed url="https://dao.effect.network/proposals/75" %}
 
-Farm can be found here: 
+Farm can be found here:&#x20;
 
 [https://bridge.effect.network/farm](https://bridge.effect.network/farm)

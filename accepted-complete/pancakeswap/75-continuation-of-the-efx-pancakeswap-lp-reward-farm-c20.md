@@ -2,7 +2,7 @@
 description: 'Author: hazdkmbxgene'
 ---
 
-# #75: Continuation of the EFX PancakeSwap LP Reward Farm
+# #75: Continuation of the EFX PancakeSwap LP Reward Farm (C20)
 
 {% embed url="https://dao.effect.network/proposals/75" %}
 

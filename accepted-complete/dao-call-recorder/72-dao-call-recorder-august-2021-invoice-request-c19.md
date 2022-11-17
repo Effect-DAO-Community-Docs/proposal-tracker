@@ -2,7 +2,7 @@
 description: 'Author: scarletalpha'
 ---
 
-# #72: DAO Call Recorder – August 2021 ‘invoice’ Request
+# #72: DAO Call Recorder – August 2021 ‘invoice’ Request (C19)
 
 [https://dao.effect.network/proposals/72](https://dao.effect.network/proposals/72)
 

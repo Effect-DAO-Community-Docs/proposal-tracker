@@ -2,7 +2,7 @@
 description: 'Proposal Author: scarletalpha'
 ---
 
-# #48: DAO Call Recorder - May 'invoice' request
+# #48: DAO Call Recorder - May 'invoice' request (C13)
 
 {% embed url="https://dao.effect.network/proposals/48" %}
 
