@@ -7,10 +7,19 @@
 
 ## Active
 
-* [#90 Truth Translating (C24)](active/90-truth-translating-c24.md)
+***
+
+* [#85: EffectDAO (C25)](85-effectdao-c25.md)
+* [#84: Creation of DAO Investment Fund (C25)](84-creation-of-dao-investment-fund-c25.md)
+* [#83: Effect Network Hackathon #3 (Final) (C24)](83-effect-network-hackathon-3-final-c24.md)
+* [#82: EFX PancakeSwap LP Reward Farm - Funding (4/4) (C23)](82-efx-pancakeswap-lp-reward-farm-funding-4-4-c23.md)
+* [#81: Add Worker's Choice Prize Pool to Hackathon (C23)](81-add-workers-choice-prize-pool-to-hackathon-c23.md)
+* [#80: Effect Network Hackathon #2 (Continuation) (C23)](80-effect-network-hackathon-2-continuation-c23.md)
+* [#79: Effect Network Hackathon #1 (C22)](79-effect-network-hackathon-1-c22.md)
 
 ## Accepted / Complete
 
+* [#90 Truth Translating (C24)](accepted-complete/90-truth-translating-c24.md)
 * [#74: Task creation funded by unused DAO funds (C20)](accepted-complete/74-task-creation-funded-by-unused-dao-funds.md)
 * [#71: DEADLINE August 20th 12pm ET! Orion Protocol EFX-USDT URGENT MESSAGE (C18)](accepted-complete/71-deadline-august-20th-12pm-et-orion-protocol-efx-usdt-urgent-message.md)
 * [#68: NEW REVISED POLL - Seeking Equitable Weekly DAO Call Times (C16)](accepted-complete/68-new-revised-poll-seeking-equitable-weekly-dao-call-times.md)
@@ -27,6 +36,7 @@
   * [#48: DAO Call Recorder - May 'invoice' request (C13)](accepted-complete/49-role-of-responsibility-formal-creation-dao-call-recorder/48-dao-call-recorder-may-invoice-request.md)
   * [#44: DAO Call Recorder (C11)](accepted-complete/44-dao-call-recorder-c11.md)
 * [PancakeSwap](accepted-complete/pancakeswap/README.md)
+  * [#78: EFX PancakeSwap LP Reward Farm - Funding (3/4) (C22)](accepted-complete/pancakeswap/78-efx-pancakeswap-lp-reward-farm-funding-3-4-c22.md)
   * [#77: EFX PancakeSwap LP Reward Farm - Funding (2/4) (C21)](accepted-complete/77-efx-pancakeswap-lp-reward-farm-funding-2-4.md)
   * [#75: Continuation of the EFX PancakeSwap LP Reward Farm (C20)](accepted-complete/75-continuation-of-the-efx-pancakeswap-lp-reward-farm.md)
   * [#70: Incentivised program for Liquidity on Pancakeswap (part 2) (C17)](accepted-complete/70-incentivised-program-for-liquidity-on-pancakeswap-part-2.md)
