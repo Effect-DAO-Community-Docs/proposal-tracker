@@ -16,6 +16,7 @@
   * [#99: Formal Creation - DAO Managed Telegram Channel (C35)](accepted-complete/dao-telegram/99-formal-creation-dao-managed-telegram-channel-c35.md)
   * [#98: Role of Responsibility - Formal Creation - DAO Telegram Channel Administration (x2)(C35)](accepted-complete/dao-telegram/98-role-of-responsibility-formal-creation-dao-telegram-channel-administration-x2-c35.md)
 * [Proposal Tracker](accepted-complete/proposal-tracker/README.md)
+  * [#115: Set DJSTRIKANOVA as Proposal Tracker](accepted-complete/proposal-tracker/115-set-djstrikanova-as-proposal-tracker.md)
   * [#97: Acceptance of a New Proposal Tracker (C33)](accepted-complete/proposal-tracker/97-acceptance-of-a-new-proposal-tracker-c33.md)
   * [#46: Proposal Tracker Term C13 through the end of C20 (C12)](accepted-complete/46-proposal-tracker-term-c13-through-the-end-of-c20.md)
   * [#45: DAO GitBook Proposal Tracker (C12)](accepted-complete/45-dao-gitbook-proposal-tracker.md)
