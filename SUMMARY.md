@@ -7,8 +7,18 @@
 
 ## Active
 
+***
+
+* [#2: Intent to become a High Guard Member (C52) (Rochelle)](2-intent-to-become-a-high-guard-member-c52-rochelle.md)
+* [#117: Endorsement: David (C52) (HG)](117-endorsement-david-c52-hg.md)
+* [#118: High Guard position: Jesse (C52)](118-high-guard-position-jesse-c52.md)
+* [#119: HG Endorsement: DJSTRIKANOVA (C52)](119-hg-endorsement-djstrikanova-c52.md)
+* [#120: Seeking HG Endorsement for Bree (C52)](120-seeking-hg-endorsement-for-bree-c52.md)
+* [#121: HG Endorsement: Miguel](121-hg-endorsement-miguel.md)
+
 ## Accepted / Complete
 
+* [HG](accepted-complete/hg.md)
 * [DAO Telegram](accepted-complete/dao-telegram/README.md)
   * [#108: Approval for DAO Telegram Rules (C43)](accepted-complete/dao-telegram/108-approval-for-dao-telegram-rules-c43.md)
   * [#103: Request to contact admins/mods for Telegram (C37)](accepted-complete/dao-telegram/103-request-to-contact-admins-mods-for-telegram-c37.md)
@@ -40,8 +50,8 @@
   * [#44: DAO Call Recorder (C11)](accepted-complete/44-dao-call-recorder-c11.md)
 * [PancakeSwap](accepted-complete/pancakeswap/README.md)
   * [Farm #5 Term 12 Months](accepted-complete/pancakeswap/farm-5-term-12-months/README.md)
-    * [#116: EFX PancakeSwap LP Reward Farm Funding 3/10](accepted-complete/pancakeswap/farm-5-term-12-months/116-efx-pancakeswap-lp-reward-farm-funding-3-10.md)
-    * [#114: EFX PancakeSwap LP Reward Farm Funding 2/10](accepted-complete/pancakeswap/farm-5-term-12-months/114-efx-pancakeswap-lp-reward-farm-funding-2-10.md)
+    * [#116: EFX PancakeSwap LP Reward Farm Funding 3/10 (C51)](accepted-complete/pancakeswap/farm-5-term-12-months/116-efx-pancakeswap-lp-reward-farm-funding-3-10-c51.md)
+    * [#114: EFX PancakeSwap LP Reward Farm Funding 2/10 (C49)](accepted-complete/pancakeswap/farm-5-term-12-months/114-efx-pancakeswap-lp-reward-farm-funding-2-10-c49.md)
     * [#113: EFX PancakeSwap LP Reward Farm Funding 1/10 (C48)](accepted-complete/pancakeswap/farm-5-term-12-months/113-efx-pancakeswap-lp-reward-farm-funding-1-10-c48.md)
     * [#110: EFX PancakeSwap LP Reward Farm #5 (C46)](accepted-complete/pancakeswap/farm-5-term-12-months/110-efx-pancakeswap-lp-reward-farm-5-c46.md)
   * [Farm #4 Term 3 Months](accepted-complete/pancakeswap/farm-4-term-3-months/README.md)
