@@ -14,7 +14,7 @@
 * [#118: High Guard position: Jesse (C52)](118-high-guard-position-jesse-c52.md)
 * [#119: HG Endorsement: DJSTRIKANOVA (C52)](119-hg-endorsement-djstrikanova-c52.md)
 * [#120: Seeking HG Endorsement for Bree (C52)](120-seeking-hg-endorsement-for-bree-c52.md)
-* [#121: HG Endorsement: Miguel](121-hg-endorsement-miguel.md)
+* [#121: HG Endorsement: Miguel (C52)](121-hg-endorsement-miguel-c52.md)
 
 ## Accepted / Complete
 
@@ -51,7 +51,7 @@
 * [PancakeSwap](accepted-complete/pancakeswap/README.md)
   * [Farm #5 Term 12 Months](accepted-complete/pancakeswap/farm-5-term-12-months/README.md)
     * [#116: EFX PancakeSwap LP Reward Farm Funding 3/10 (C51)](accepted-complete/pancakeswap/farm-5-term-12-months/116-efx-pancakeswap-lp-reward-farm-funding-3-10-c51.md)
-    * [#114: EFX PancakeSwap LP Reward Farm Funding 2/10 (C49)](accepted-complete/pancakeswap/farm-5-term-12-months/114-efx-pancakeswap-lp-reward-farm-funding-2-10-c49.md)
+    * [#114: EFX PancakeSwap LP Reward Farm Funding 2/10 (C49)](accepted-complete/pancakeswap/farm-5-term-12-months/114-efx-pancakeswap-lp-reward-farm-funding-2-10.md)
     * [#113: EFX PancakeSwap LP Reward Farm Funding 1/10 (C48)](accepted-complete/pancakeswap/farm-5-term-12-months/113-efx-pancakeswap-lp-reward-farm-funding-1-10-c48.md)
     * [#110: EFX PancakeSwap LP Reward Farm #5 (C46)](accepted-complete/pancakeswap/farm-5-term-12-months/110-efx-pancakeswap-lp-reward-farm-5-c46.md)
   * [Farm #4 Term 3 Months](accepted-complete/pancakeswap/farm-4-term-3-months/README.md)
