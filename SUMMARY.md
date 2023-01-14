@@ -7,15 +7,21 @@
 
 ## Active
 
+***
+
+* [#123: Updates to the DAO quorum (ATP) (C53)](123-updates-to-the-dao-quorum-atp-c53.md)
+* [#122: Appointment of the High Guard (ATP) (C53)](122-appointment-of-the-high-guard-atp-c53.md)
+
 ## Accepted / Complete
 
-* [HG](accepted-complete/hg/README.md)
-  * [#121: HG Endorsement: Miguel (C52)](accepted-complete/hg/121-hg-endorsement-miguel-c52.md)
-  * [#120: Seeking HG Endorsement for Bree (C52)](accepted-complete/hg/120-seeking-hg-endorsement-for-bree-c52.md)
-  * [#119: HG Endorsement: DJSTRIKANOVA (C52)](accepted-complete/hg/119-hg-endorsement-djstrikanova-c52.md)
-  * [#118: High Guard position: Jesse (C52)](accepted-complete/hg/118-high-guard-position-jesse-c52.md)
-  * [#117: Endorsement: David (C52) (HG)](accepted-complete/hg/117-endorsement-david-c52-hg.md)
-  * [#2: Intent to become a High Guard Member (C52) (Rochelle)](accepted-complete/hg/2-intent-to-become-a-high-guard-member-c52-rochelle.md)
+* [ATP](accepted-complete/atp.md)
+* [HG](accepted-complete/hg.md)
+  * [#121: HG Endorsement: Miguel (C52)](121-hg-endorsement-miguel-c52.md)
+  * [#120: Seeking HG Endorsement for Bree (C52)](120-seeking-hg-endorsement-for-bree-c52.md)
+  * [#119: HG Endorsement: DJSTRIKANOVA (C52)](119-hg-endorsement-djstrikanova-c52.md)
+  * [#118: High Guard position: Jesse (C52)](118-high-guard-position-jesse-c52.md)
+  * [#117: Endorsement: David (C52) (HG)](117-endorsement-david-c52-hg.md)
+  * [#2: Intent to become a High Guard Member (C52) (Rochelle)](2-intent-to-become-a-high-guard-member-c52-rochelle.md)
   * [#0: High Guard position: Laurens (C52)](accepted-complete/hg/0-high-guard-position-laurens-c52.md)
 * [DAO Telegram](accepted-complete/dao-telegram/README.md)
   * [#108: Approval for DAO Telegram Rules (C43)](accepted-complete/dao-telegram/108-approval-for-dao-telegram-rules-c43.md)
