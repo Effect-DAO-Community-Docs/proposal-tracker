@@ -9,12 +9,13 @@
 
 ***
 
-* [#123: Updates to the DAO quorum (ATP) (C53)](123-updates-to-the-dao-quorum-atp-c53.md)
-* [#122: Appointment of the High Guard (ATP) (C53)](122-appointment-of-the-high-guard-atp-c53.md)
+* [#124: EOS Network Foundation + Pomelo (C54)](124-eos-network-foundation-+-pomelo-c54.md)
 
 ## Accepted / Complete
 
-* [ATP](accepted-complete/atp.md)
+* [ATP](accepted-complete/atp/README.md)
+  * [#123: Updates to the DAO quorum (ATP) (C53)](accepted-complete/atp/123-updates-to-the-dao-quorum-atp-c53.md)
+  * [#122: Appointment of the High Guard (ATP) (C53)](accepted-complete/atp/122-appointment-of-the-high-guard-atp-c53.md)
 * [HG](accepted-complete/hg.md)
   * [#121: HG Endorsement: Miguel (C52)](121-hg-endorsement-miguel-c52.md)
   * [#120: Seeking HG Endorsement for Bree (C52)](120-seeking-hg-endorsement-for-bree-c52.md)
