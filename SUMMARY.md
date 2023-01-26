@@ -37,6 +37,7 @@
   * [#45: DAO GitBook Proposal Tracker (C12)](accepted-complete/45-dao-gitbook-proposal-tracker.md)
 * [Smart Contract Changes](accepted-complete/smart-contract-changes/README.md)
   * [#106: Implement network fees (C41)](accepted-complete/smart-contract-changes/106-implement-network-fees-c41.md)
+  * [#86: Update Proposal Categories (C26)](accepted-complete/smart-contract-changes/86-update-proposal-categories-c26.md)
   * [#43: Deployment of Rankless Dynamic Vote System (P22) (C11)](accepted-complete/43-deployment-of-rankless-dynamic-vote-system-p22-c11.md)
   * [#22: Rankless Dynamic Vote Weight Based on NFX and Stake Age (C4)](accepted-complete/22-rankless-dynamic-vote-weight-based-on-nfx-and-stake-age.md)
   * [#6: 30% of all unused cycle funds go to fee distribution (C1)](accepted-complete/untitled.md)
@@ -104,7 +105,6 @@
 
 * [#111: DAO 2.0 Plan (C48)](accepted-incomplete/111-dao-2.0-plan-c48.md)
 * [#105: Support NFX as payment option for DAO proposals (C41)](accepted-incomplete/105-support-nfx-as-payment-option-for-dao-proposals-c41.md)
-* [#86: Update Proposal Categories (C26)](accepted-incomplete/86-update-proposal-categories-c26.md)
 * [#87: Sentiment-Marketing the DAO (C27)](accepted-incomplete/87-sentiment-marketing-the-dao-c27.md)
 * [#74: Task creation funded by unused DAO funds (C20)](accepted-complete/74-task-creation-funded-by-unused-dao-funds.md)
 * [#36: Cause and Effect #2 (Video Production) (C6)](accepted-incomplete/36-cause-and-effect-2-video-production.md)
