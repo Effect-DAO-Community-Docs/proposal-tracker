@@ -9,10 +9,16 @@
 
 ***
 
-* [#124: EOS Network Foundation + Pomelo (C54)](124-eos-network-foundation-+-pomelo-c54.md)
+* [#130: Defibox Special Mining 230,000 EFX Fund (C57)](130-defibox-special-mining-230-000-efx-fund-c57.md)
+* [#129: Pomelo Grant for EffectDAO (C57)](129-pomelo-grant-for-effectdao-c57.md)
+* [#128: Sentiment about a sticker/emoji pack design competition (C57)](128-sentiment-about-a-sticker-emoji-pack-design-competition-c57.md)
 
 ## Accepted / Complete
 
+* [EOS Outreach Initiatives](accepted-complete/eos-outreach-initiatives/README.md)
+  * [#126: Defibox EFX-EOS Liquidity (C55)](accepted-complete/eos-outreach-initiatives/126-defibox-efx-eos-liquidity-c55.md)
+  * [#124: EOS Network Foundation + Pomelo (C54)](accepted-complete/eos-outreach-initiatives/124-eos-network-foundation-+-pomelo-c54.md)
+* [Defibox](accepted-complete/defibox.md)
 * [ATP](accepted-complete/atp/README.md)
   * [#123: Updates to the DAO quorum (ATP) (C53)](accepted-complete/atp/123-updates-to-the-dao-quorum-atp-c53.md)
   * [#122: Appointment of the High Guard (ATP) (C53)](accepted-complete/atp/122-appointment-of-the-high-guard-atp-c53.md)
@@ -55,6 +61,7 @@
   * [#48: DAO Call Recorder - May 'invoice' request (C13)](accepted-complete/49-role-of-responsibility-formal-creation-dao-call-recorder/48-dao-call-recorder-may-invoice-request.md)
   * [#44: DAO Call Recorder (C11)](accepted-complete/44-dao-call-recorder-c11.md)
 * [PancakeSwap](accepted-complete/pancakeswap/README.md)
+  * [#127: BNB-EFX PancakeSwap Fees to Defibox EFX-EOS Liquidity (C56)](accepted-complete/pancakeswap/127-bnb-efx-pancakeswap-fees-to-defibox-efx-eos-liquidity-c56.md)
   * [Farm #5 Term 12 Months](accepted-complete/pancakeswap/farm-5-term-12-months/README.md)
     * [#116: EFX PancakeSwap LP Reward Farm Funding 3/10 (C51)](accepted-complete/pancakeswap/farm-5-term-12-months/116-efx-pancakeswap-lp-reward-farm-funding-3-10-c51.md)
     * [#114: EFX PancakeSwap LP Reward Farm Funding 2/10 (C49)](accepted-complete/pancakeswap/farm-5-term-12-months/114-efx-pancakeswap-lp-reward-farm-funding-2-10.md)
@@ -103,6 +110,7 @@
 
 ## Accepted / Incomplete
 
+* [#125: Socials Tab + Header Bounty (C55)](accepted-incomplete/125-socials-tab-+-header-bounty-c55.md)
 * [#111: DAO 2.0 Plan (C48)](accepted-incomplete/111-dao-2.0-plan-c48.md)
 * [#105: Support NFX as payment option for DAO proposals (C41)](accepted-incomplete/105-support-nfx-as-payment-option-for-dao-proposals-c41.md)
 * [#87: Sentiment-Marketing the DAO (C27)](accepted-incomplete/87-sentiment-marketing-the-dao-c27.md)
