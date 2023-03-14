@@ -9,16 +9,19 @@
 
 ***
 
-* [#130: Defibox Special Mining 230,000 EFX Fund (C57)](130-defibox-special-mining-230-000-efx-fund-c57.md)
-* [#129: Pomelo Grant for EffectDAO (C57)](129-pomelo-grant-for-effectdao-c57.md)
-* [#128: Sentiment about a sticker/emoji pack design competition (C57)](128-sentiment-about-a-sticker-emoji-pack-design-competition-c57.md)
+* [#132: Payment for Defibox Special Mining Fund (C58) (ATP)](132-payment-for-defibox-special-mining-fund-c58-atp.md)
+* [#131: Pomelo Season 5 is Live! Consider Donating to Grants. (C58)](131-pomelo-season-5-is-live-consider-donating-to-grants.-c58.md)
 
 ## Accepted / Complete
 
+* [Pomelo](accepted-complete/pomelo/README.md)
+  * [#129: Pomelo Grant for EffectDAO (C57)](accepted-complete/pomelo/129-pomelo-grant-for-effectdao-c57.md)
 * [EOS Outreach Initiatives](accepted-complete/eos-outreach-initiatives/README.md)
+  * [#128: Sentiment about a sticker/emoji pack design competition (C57)](accepted-complete/eos-outreach-initiatives/128-sentiment-about-a-sticker-emoji-pack-design-competition-c57.md)
   * [#126: Defibox EFX-EOS Liquidity (C55)](accepted-complete/eos-outreach-initiatives/126-defibox-efx-eos-liquidity-c55.md)
   * [#124: EOS Network Foundation + Pomelo (C54)](accepted-complete/eos-outreach-initiatives/124-eos-network-foundation-+-pomelo-c54.md)
-* [Defibox](accepted-complete/defibox.md)
+* [Defibox](accepted-complete/defibox/README.md)
+  * [#130: Defibox Special Mining 230,000 EFX Fund (C57)](accepted-complete/defibox/130-defibox-special-mining-230-000-efx-fund-c57.md)
 * [ATP](accepted-complete/atp/README.md)
   * [#123: Updates to the DAO quorum (ATP) (C53)](accepted-complete/atp/123-updates-to-the-dao-quorum-atp-c53.md)
   * [#122: Appointment of the High Guard (ATP) (C53)](accepted-complete/atp/122-appointment-of-the-high-guard-atp-c53.md)
@@ -88,6 +91,7 @@
   * [#37: A guide on how to improve security by using a Ledger hardware wallet. (C7)](accepted-complete/37-a-guide-on-how-to-improve-security-by-using-a-ledger-hardware-wallet..md)
   * [#16: Expanding Documentation: Librarians Of The Galaxy (C3)](accepted-incomplete/16-expanding-documentation-librarians-of-the-galaxy.md)
 * [DAO Tools](accepted-complete/dao-tools/README.md)
+  * [#125: Socials Tab + Header Bounty (C55)](accepted-complete/dao-tools/125-socials-tab-+-header-bounty-c55.md)
   * [Developer Bounties](accepted-complete/dao-tools/developer-bounties/README.md)
     * [#96: Developer Pool for DAO Development (C32)](accepted-complete/dao-tools/developer-bounties/96-developer-pool-for-dao-development-c32.md)
     * [#95: Developer Pool for DAO Development (C46)](accepted-complete/dao-tools/developer-bounties/95-developer-pool-for-dao-development-c46.md)
@@ -110,7 +114,6 @@
 
 ## Accepted / Incomplete
 
-* [#125: Socials Tab + Header Bounty (C55)](accepted-incomplete/125-socials-tab-+-header-bounty-c55.md)
 * [#111: DAO 2.0 Plan (C48)](accepted-incomplete/111-dao-2.0-plan-c48.md)
 * [#105: Support NFX as payment option for DAO proposals (C41)](accepted-incomplete/105-support-nfx-as-payment-option-for-dao-proposals-c41.md)
 * [#87: Sentiment-Marketing the DAO (C27)](accepted-incomplete/87-sentiment-marketing-the-dao-c27.md)
