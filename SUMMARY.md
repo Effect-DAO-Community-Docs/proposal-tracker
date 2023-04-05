@@ -9,12 +9,13 @@
 
 ***
 
-* [#132: Payment for Defibox Special Mining Fund (C58) (ATP)](132-payment-for-defibox-special-mining-fund-c58-atp.md)
-* [#131: Pomelo Season 5 is Live! Consider Donating to Grants. (C58)](131-pomelo-season-5-is-live-consider-donating-to-grants.-c58.md)
+* [#134: EFX PancakeSwap LP Reward Farm Funding 4-8/10 (C59)](134-efx-pancakeswap-lp-reward-farm-funding-4-8-10-c59.md)
+* [#133: Funding Modr8 for DAO telegram (C59)](133-funding-modr8-for-dao-telegram-c59.md)
 
 ## Accepted / Complete
 
 * [Pomelo](accepted-complete/pomelo/README.md)
+  * [#131: Pomelo Season 5 is Live! Consider Donating to Grants. (C58)](accepted-complete/pomelo/131-pomelo-season-5-is-live-consider-donating-to-grants.-c58.md)
   * [#129: Pomelo Grant for EffectDAO (C57)](accepted-complete/pomelo/129-pomelo-grant-for-effectdao-c57.md)
 * [EOS Outreach Initiatives](accepted-complete/eos-outreach-initiatives/README.md)
   * [#128: Sentiment about a sticker/emoji pack design competition (C57)](accepted-complete/eos-outreach-initiatives/128-sentiment-about-a-sticker-emoji-pack-design-competition-c57.md)
@@ -123,6 +124,7 @@
 
 ## Accepted / Exceptional
 
+* [#132: Payment for Defibox Special Mining Fund (C58) (ATP)](accepted-exceptional/132-payment-for-defibox-special-mining-fund-c58-atp.md)
 * [#35: High Guard Resolution #1: Phishing hack interception (C6)](accepted-exceptional/35-high-guard-resolution-1-phishing-hack-interception.md)
 
 ## Accepted / Superseded
