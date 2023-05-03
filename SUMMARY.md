@@ -9,8 +9,7 @@
 
 ***
 
-* [#134: EFX PancakeSwap LP Reward Farm Funding 4-8/10 (C59)](134-efx-pancakeswap-lp-reward-farm-funding-4-8-10-c59.md)
-* [#133: Funding Modr8 for DAO telegram (C59)](133-funding-modr8-for-dao-telegram-c59.md)
+* [#139: Enabling custom avatars for DAO members (C62)](139-enabling-custom-avatars-for-dao-members-c62.md)
 
 ## Accepted / Complete
 
@@ -35,6 +34,7 @@
   * [#2: Intent to become a High Guard Member (C52) (Rochelle)](2-intent-to-become-a-high-guard-member-c52-rochelle.md)
   * [#0: High Guard position: Laurens (C52)](accepted-complete/hg/0-high-guard-position-laurens-c52.md)
 * [DAO Telegram](accepted-complete/dao-telegram/README.md)
+  * [#133: Funding Modr8 for DAO telegram (C59)](accepted-complete/dao-telegram/133-funding-modr8-for-dao-telegram-c59.md)
   * [#108: Approval for DAO Telegram Rules (C43)](accepted-complete/dao-telegram/108-approval-for-dao-telegram-rules-c43.md)
   * [#103: Request to contact admins/mods for Telegram (C37)](accepted-complete/dao-telegram/103-request-to-contact-admins-mods-for-telegram-c37.md)
   * [#101: Call Out for Telegram Admins and Monitors!!! (C36)](accepted-complete/dao-telegram/101-call-out-for-telegram-admins-and-monitors-c36.md)
@@ -67,6 +67,7 @@
 * [PancakeSwap](accepted-complete/pancakeswap/README.md)
   * [#127: BNB-EFX PancakeSwap Fees to Defibox EFX-EOS Liquidity (C56)](accepted-complete/pancakeswap/127-bnb-efx-pancakeswap-fees-to-defibox-efx-eos-liquidity-c56.md)
   * [Farm #5 Term 12 Months](accepted-complete/pancakeswap/farm-5-term-12-months/README.md)
+    * [#134: EFX PancakeSwap LP Reward Farm Funding 4-8/10 (C59)](accepted-complete/pancakeswap/farm-5-term-12-months/134-efx-pancakeswap-lp-reward-farm-funding-4-8-10-c59.md)
     * [#116: EFX PancakeSwap LP Reward Farm Funding 3/10 (C51)](accepted-complete/pancakeswap/farm-5-term-12-months/116-efx-pancakeswap-lp-reward-farm-funding-3-10-c51.md)
     * [#114: EFX PancakeSwap LP Reward Farm Funding 2/10 (C49)](accepted-complete/pancakeswap/farm-5-term-12-months/114-efx-pancakeswap-lp-reward-farm-funding-2-10.md)
     * [#113: EFX PancakeSwap LP Reward Farm Funding 1/10 (C48)](accepted-complete/pancakeswap/farm-5-term-12-months/113-efx-pancakeswap-lp-reward-farm-funding-1-10-c48.md)
