@@ -9,7 +9,7 @@
 
 ***
 
-* [#139: Enabling custom avatars for DAO members (C62)](139-enabling-custom-avatars-for-dao-members-c62.md)
+* [#140: EffectDAO AI Fund (C64)](140-effectdao-ai-fund-c64.md)
 
 ## Accepted / Complete
 
@@ -47,6 +47,7 @@
   * [#46: Proposal Tracker Term C13 through the end of C20 (C12)](accepted-complete/46-proposal-tracker-term-c13-through-the-end-of-c20.md)
   * [#45: DAO GitBook Proposal Tracker (C12)](accepted-complete/45-dao-gitbook-proposal-tracker.md)
 * [Smart Contract Changes](accepted-complete/smart-contract-changes/README.md)
+  * [#139: Enabling custom avatars for DAO members (C62)](accepted-complete/smart-contract-changes/139-enabling-custom-avatars-for-dao-members-c62.md)
   * [#106: Implement network fees (C41)](accepted-complete/smart-contract-changes/106-implement-network-fees-c41.md)
   * [#86: Update Proposal Categories (C26)](accepted-complete/smart-contract-changes/86-update-proposal-categories-c26.md)
   * [#43: Deployment of Rankless Dynamic Vote System (P22) (C11)](accepted-complete/43-deployment-of-rankless-dynamic-vote-system-p22-c11.md)
