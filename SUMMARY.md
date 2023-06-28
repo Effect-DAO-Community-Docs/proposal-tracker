@@ -9,6 +9,7 @@
 
 ***
 
+* [#141: BSC Fee (C65)](141-bsc-fee-c65.md)
 * [#140: EffectDAO AI Fund (C64)](140-effectdao-ai-fund-c64.md)
 
 ## Accepted / Complete
