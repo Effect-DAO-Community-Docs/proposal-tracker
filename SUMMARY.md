@@ -4,6 +4,7 @@
 * [Contact](contact.md)
 * [DAO Dashboard](https://dao.effect.network/)
 * [Glossary](glossary.md)
+* [ATP MSIGS](atp-msigs.md)
 
 ## Active
 
